@@ -16,6 +16,7 @@ use your own student fork as the base to compare myuser/firstName-lastName to my
 ## ADD your name to this list
 - Steve Rogers
 - Ryan Hamblin
--Ashley Welch
+- Ashley Welch
+
 ### For a non-practice project, this would be when you would submit through Canvas; for this one, once you've added your name to the list and created 
 ### a Pull Request you're done- no submission required!
